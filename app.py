@@ -14,7 +14,7 @@ col1, col2 = st.columns([1, 1.8])
 
 with col1:
     st.subheader("🚨 설비 관제 및 이상신호 유입")
-    st.info("플랜트 현장에서 발생한 실시간 텔레메트리 경보 데이터입니다.")
+    st.info("발전소 현장에서 발생한 실시간 텔레메트리 경보 데이터입니다.")
     
     # 시연용 입력 폼 구성 (고객 앞에서 직접 조작하는 맛을 줍니다)
     selected_device = st.selectbox(
