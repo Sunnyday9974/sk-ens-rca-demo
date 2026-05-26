@@ -36,7 +36,7 @@ with col1:
 
 with col2:
     # 💡 경영진의 직관적인 이해를 돕기 위한 통합 3대 자산 융합 타이틀 반영
-    st.subheader("🧠 3대 정비 자산(온톨로지·문서·이력) 자율 융합 AI 분석 센터")
+    st.subheader("🧠 AI RCA Agent 센터 (SKI E&S 지식 자산 기반 분석)")
     
     if submit_button:
         # 🎬 시각적 타임라인 연출을 위한 가상 컨테이너들 선언
