@@ -36,7 +36,7 @@ with col1:
 
 with col2:
     # 경영진 저격용 통합 타이틀 유지
-    st.subheader("🧠 3대 정비 자산(온톨로지·문서·이력) 자율 융합 AI 분석 센터")
+    st.subheader("🧠 AI RCA Agent 센터 (SKI E&S 지식 자산 기반)")
     
     if submit_button:
         # 🎬 3단계 타임라인 및 프로그레스 바 플레이스홀더 설정
