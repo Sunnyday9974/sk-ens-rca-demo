@@ -89,8 +89,8 @@ with col2:
             
             if response and response.status_code == 200:
                 # 성공 시 상태 업데이트
-                step3_placeholder.success("✔ [Step 3 완료] LLM 기반 컨텍스트 융합 및 RCA 리포트 생성 완료")
-                st.success("✅ AX 기반 실시간 플랜트 리스크 지시서 발행 완료")
+                step3_placeholder.success("✔ [Step 3 완료] LLM 기반 컨텍스트 융합 및 RCA 리포트 생성")
+                st.success("✅ AX 기반 실시간 RCA 리포트 발행 완료")
                 
                 # [🚨 알맹이 추출 치트키 로직] 
                 report_text = ""
