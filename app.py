@@ -49,12 +49,12 @@ with col2:
         # --- [Step 1] 진행 연출 ---
         step1_placeholder.info("⚙️ [Step 1] Neo4j 그래프 DB 접속 중... 알람-고장 모드 온톨로지 토폴로지 분석")
         time.sleep(1.2)
-        step1_placeholder.success("✔ [Step 1 완료] Neo4j 지식 그래프 탐색을 통해 설비 간 인과관계 메커니즘 도출 완료")
+        step1_placeholder.success("✔ [Step 1 완료] 과거 운전/정비 이력 탐색(Neo4j 지식 그래프)을 통해 설비 간 인과관계 메커니즘 도출 완료")
         
         # --- [Step 2] 진행 연출 ---
         step2_placeholder.info("⚡ [Step 2] Pinecone 벡터 DB 검색 중... 과거 10년 치 RCA 이력 및 기술 매뉴얼 매칭")
         time.sleep(1.2)
-        step2_placeholder.success("✔ [Step 2 완료] Pinecone 고차원 임베딩 검색을 통해 실무 규격 및 유사 고장 사례 정합성 매칭 완료")
+        step2_placeholder.success("✔ [Step 2 완료] 기술문서, RCA보고서 자료(Pinecone 벡터 DB) 고차원 임베딩 검색을 통해 실무 규격 및 유사 고장 사례 정합성 매칭 완료")
         
         # --- [Step 3] 진행 및 동적 타임 바 연출 ---
         step3_placeholder.info("🚀 [Step 3] AI 에이전트 컨텍스트 융합 및 정식 엔지니어링 리포트 심층 생성 중...")
