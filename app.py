@@ -57,7 +57,7 @@ with col2:
         step2_placeholder.success("✔ [Step 2 완료] 기술문서, RCA보고서 자료(Pinecone 벡터 DB) 고차원 임베딩 검색을 통해 실무 규격 및 유사 고장 사례 정합성 매칭 완료")
         
         # --- [Step 3] 진행 및 동적 타임 바 연출 ---
-        step3_placeholder.info("🚀 [Step 3] AI 에이전트 컨텍스트 융합 및 정식 엔지니어링 리포트 심층 생성 중...")
+        step3_placeholder.info("🚀 [Step 3] AI 에이전트 컨텍스트 융합 및 엔지니어링 리포트 심층 생성 중...")
         
         n8n_url = "https://seoneenam.app.n8n.cloud/webhook/rca-test" 
         
